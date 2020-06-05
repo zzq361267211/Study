@@ -1,0 +1,7 @@
+D:\孵化中心\学习+实验demo\demo线程\bin\Debug\demo线程.exe.config
+D:\孵化中心\学习+实验demo\demo线程\bin\Debug\demo线程.exe
+D:\孵化中心\学习+实验demo\demo线程\bin\Debug\demo线程.pdb
+D:\孵化中心\学习+实验demo\demo线程\obj\Debug\demo线程.csprojAssemblyReference.cache
+D:\孵化中心\学习+实验demo\demo线程\obj\Debug\demo线程.csproj.CoreCompileInputs.cache
+D:\孵化中心\学习+实验demo\demo线程\obj\Debug\demo线程.exe
+D:\孵化中心\学习+实验demo\demo线程\obj\Debug\demo线程.pdb
